@@ -1,4 +1,4 @@
-baseurl:'https://youngbai-c.github.io/'
+baseURL : https://youngbai-c.github.io
 languageCode : zh-cn
 title : Young Bai
 theme : PaperMod
