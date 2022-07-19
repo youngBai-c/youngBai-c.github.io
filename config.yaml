@@ -1,7 +1,7 @@
 languageCode : zh-cn
 title : My New Hugo Site
 theme : PaperMod
-
+publishDir : docs
 menu:
   main:
     - identifier: categories
