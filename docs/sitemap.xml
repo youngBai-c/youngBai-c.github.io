@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://youngbai-c.github.io/posts/first-post/</loc>
+    <lastmod>2022-07-19T10:59:11+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://youngbai-c.github.io/categories/</loc>
+    <lastmod>2022-07-19T14:25:29+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://youngbai-c.github.io/categories/data-science/</loc>
+    <lastmod>2022-07-19T14:25:29+08:00</lastmod>
+  </url><url>
+    <loc>https://youngbai-c.github.io/posts/data100_lecture12_modeling/</loc>
+    <lastmod>2022-07-19T14:25:29+08:00</lastmod>
+  </url><url>
+    <loc>https://youngbai-c.github.io/posts/</loc>
+    <lastmod>2022-07-19T14:25:29+08:00</lastmod>
+  </url><url>
+    <loc>https://youngbai-c.github.io/</loc>
+    <lastmod>2022-07-19T14:25:29+08:00</lastmod>
+  </url><url>
+    <loc>https://youngbai-c.github.io/tags/</loc>
   </url>
 </urlset>

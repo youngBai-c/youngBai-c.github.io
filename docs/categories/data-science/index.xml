@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Young Bai</title>
-    <link>https://youngbai-c.github.io/</link>
-    <description>Recent content on Young Bai</description>
+    <title>Data Science on Young Bai</title>
+    <link>https://youngbai-c.github.io/categories/data-science/</link>
+    <description>Recent content in Data Science on Young Bai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Jul 2022 14:25:29 +0800</lastBuildDate><atom:link href="https://youngbai-c.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://youngbai-c.github.io/posts/first-post/</link>
-      <pubDate>Tue, 19 Jul 2022 10:59:11 +0800</pubDate>
-      
-      <guid>https://youngbai-c.github.io/posts/first-post/</guid>
-      <description>First Blog Centering image in markdown</description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 Jul 2022 14:25:29 +0800</lastBuildDate><atom:link href="https://youngbai-c.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data100_lecture12_modeling</title>
       <link>https://youngbai-c.github.io/posts/data100_lecture12_modeling/</link>

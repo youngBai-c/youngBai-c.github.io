@@ -2,9 +2,11 @@ baseURL : https://youngbai-c.github.io
 languageCode : zh-cn
 title : Young Bai
 theme : PaperMod
+math : true
+ShowToc: true
 publishDir : docs
-menu:
-  main:
+menu : 
+  main : 
     - identifier: categories
       name: categories
       url: /categories/
